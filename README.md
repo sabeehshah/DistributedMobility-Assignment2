@@ -1,6 +1,7 @@
 # DistributedMobility-Assignment2
 
 # Used Hadoop-2.10.0
+Single node cluster
 
 # Input
 ![input](https://user-images.githubusercontent.com/26603601/69598952-3af9f100-0fd9-11ea-8b6f-043a8f0e6e02.png)
