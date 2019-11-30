@@ -20,3 +20,9 @@
 # Output
 ![output](https://user-images.githubusercontent.com/26603601/69598923-1f8ee600-0fd9-11ea-98fc-a2a94f5e8567.png)
 
+## Sequential MapReduce
+## Used Python
+
+
+# Output 
+![sequential-output](https://user-images.githubusercontent.com/26603601/69895767-d524a680-1303-11ea-96e9-0caf2695a306.png)
