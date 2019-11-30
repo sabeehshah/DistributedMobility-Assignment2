@@ -1,7 +1,9 @@
 <div align="center">
+
 # Distributed Mobility - Assignment 2
 ## Victor Batirow
 ## Sabeeh Shah - 991371707
+
 </div>
 
 # Distributed Parallel MapReduce
