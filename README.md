@@ -1,4 +1,4 @@
-# DistributedMobility-Assignment2
+# Distributed Mobility - Assignment2
 ## Victor Batirow
 ## Sabeeh Shah - 991371707
 
