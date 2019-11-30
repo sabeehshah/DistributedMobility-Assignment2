@@ -1,4 +1,6 @@
 # DistributedMobility-Assignment2
+## Victor Batirow
+## Sabeeh Shah - 991371707
 
 # Used Hadoop-2.10.0
 Single node cluster
